@@ -33,7 +33,7 @@ const Footer = () => {
         </ul>
 
       </div>
-      <div className="text-white md:flex overflow-hidden items-center md:flex-wrap md:justify-center"> <p>all rights reserved @ Happy Coding !!!</p></div>
+      <div className="text-white md:flex overflow-hidden items-center md:flex-wrap md:justify-center"> <p>all rights reserved @ Cod!ng M@n!@</p></div>
     </>
   );
 };

@@ -10,11 +10,11 @@ const Home = () => {
           <TextChange />
         </h1>
         <p className="text-sm md:text-2xl tracking-tight ">
-          Software Developer with proficiency using React.js dedicated to build user-friendly web applications. With experience in JavaScript (ES6+), HTML, CSS3 and modern frontend technologies. Proven track record of delivering high-quality, responsive and scalable solutions. Writing a clean, maintainable code, optimizing performance and learning latest advancements in web development, consistently delivering impactful results in Frontend development with 3.5 years of experience.
+        Software Developer with proficiency using <b>React.js</b> and <b>React Native</b> dedicated to build user-friendly web applications and mobile applications. With experience in JavaScript (ES6+), HTML, CSS3 and modern frontend technologies. Proven track record of delivering high-quality, responsive and scalable solutions. Writing a clean, maintainable code, optimizing performance and learning latest advancements in web development, consistently delivering impactful results in Frontend development with 3.5+ years of experience. 
         </p>
-        <button className="mt-5 md:md-10 text-white py02 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
+        {/* <button className="mt-5 md:md-10 text-white py02 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
           Contact Me
-        </button>
+        </button> */}
       </div>
       <div>
         {/* <img className="h-200 w-200" src={avatarImg} alt="" /> */}

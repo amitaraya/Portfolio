@@ -9,7 +9,7 @@ import { RiNetflixFill } from "react-icons/ri";
 import { FaAmazon } from "react-icons/fa";
 const Experience = () => {
   return (
-    <div id="Experience" className="p-10 md:p-24">
+    <div id="Experience" className="p-10 md:p-24 bg-black shadow-xl mx-0 md:mx-20 bg-opacity-30 rounded-lg p-12">
       <h1 className="text-2xl md:text-4xl text-white font-bold">Experience</h1>
       <div className="flex flex-wrap items-center justify-around">
         <div className="flex flex-wrap md:w-2/5 gap-8 md:p-12 py-10">
